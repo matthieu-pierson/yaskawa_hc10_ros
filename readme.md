@@ -1,8 +1,6 @@
 Projet de Master 2 Robotique Décision et Commande - Intégration d’un robot coopératif dans un
 environnement de production à l’aide du middleware ROS
 
-=============
-
 ## A propos
 Projet réalisé pour l'UE Projet en M2 RODECO (Paul Sabatier, Toulouse) en 2020-2021 par le groupe étudiant suivant : Gaëlic BECHU, Lucas CERE, Gérémy PEDOUSSAT, Matthieu PIERSON, Anthony THURIES
 pour les clients de l'AIP PRIMECA Occitanie : Michel TAIX, Fabien MARCO
